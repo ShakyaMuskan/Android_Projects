@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="MySearchViewStyle" parent="Widget.AppCompat.SearchView">
-        <item name="android:textColor">@color/black_text</item>
-        <item name="android:textColorHint">#474343</item>
-    </style>
-</resources>
